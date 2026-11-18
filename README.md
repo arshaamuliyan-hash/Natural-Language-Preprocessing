@@ -1,8 +1,8 @@
 # Preprocessing Teks Ulasan E-Commerce Berbahasa Indonesia
 
-**Nama** : Muntasir
-**NIM**  : 24146060
-**GitHub** : https://github.com/muntasirdw46-sketch/Natural-Language-Preprocessing.git
+**Nama** : Arsha Muliyan
+**NIM**  : 24146016
+**GitHub** : https://github.com/arshaamuliyan-hash/Natural-Language-Preprocessing/edit/main/README.md
 
 ## Deskripsi
 
