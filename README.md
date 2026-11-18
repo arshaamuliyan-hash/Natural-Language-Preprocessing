@@ -36,3 +36,4 @@ Jalankan seluruh sel dari atas ke bawah (Run All). Isi variabel `NAMA`,
 "# Natural-Language-Preprocessing" 
 "# Natural-Language-Preprocessing" 
 "# Natural-Language-Preprocessing" 
+"# Natural-Language-Preprocessing" 
